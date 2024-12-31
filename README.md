@@ -48,3 +48,8 @@ Content based recommendation System project about movies
 ### Streamlit: For creating the web interface.
 
 
+###### Run the Web App: Start the Streamlit web app:
+                streamlit run app.py
+                
+###### Access the App: Open your browser and navigate to 
+                http://localhost:8501.
