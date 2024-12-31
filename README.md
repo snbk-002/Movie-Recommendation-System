@@ -8,7 +8,7 @@ Recommendation System project about movies
 
 ## Overview
 
-### This project is a simple yet effective Movie Recommendation System built using cosine similarity to recommend movies based on user preferences or selected movies. The system is wrapped in an interactive and user-friendly web application built with Streamlit, allowing users to explore and receive recommendations in real-time.
+#### This project is a simple yet effective Movie Recommendation System built using cosine similarity to recommend movies based on user preferences or selected movies. The system is wrapped in an interactive and user-friendly web application built with Streamlit, allowing users to explore and receive recommendations in real-time.
 
 ## Features
 
@@ -47,4 +47,4 @@ Recommendation System project about movies
 
 ### Streamlit: For creating the web interface.
 
-### Dataset: A CSV file containing movie metadata (titles, genres, descriptions, etc.).
+
