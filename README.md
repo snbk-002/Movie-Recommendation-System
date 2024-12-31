@@ -3,16 +3,4 @@ Recommendation System project about movies
 
 ### The Project file : [Files](https://drive.google.com/drive/folders/110h3eQdOL97vfZwH_pJau3i6Zwo7e7bL?usp=sharing)
 
-movie-recommendation-system/
-│
-├── data/
-│   ├── movies.csv             # Dataset used for recommendations
-│
-├── app.py                     # Streamlit web app
-├── recommender.py             # Script for recommendation logic (cosine similarity)
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
-│
-└── images/                    # Screenshots of the app
-    ├── demo1.png
-    ├── demo2.png
+![Screenshot 2024-12-31 181253](https://github.com/user-attachments/assets/bd12da14-bbff-46e9-bb2b-e4db06ca789f)
