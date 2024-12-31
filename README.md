@@ -21,7 +21,9 @@ Recommendation System project about movies
 ### 4. Lightweight and easy to deploy.
 
 
-### Dataset:   The system uses a dataset containing movie details like titles, genres, and descriptions (e.g., from Kaggle or IMDb datasets).
+## Dataset:  [LINK](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) 
+
+### The system uses a dataset containing movie details like titles, genres, and descriptions (e.g., from Kaggle or IMDb datasets).
 
 ## Preprocessing:  
 
